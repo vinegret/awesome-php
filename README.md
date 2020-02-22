@@ -219,6 +219,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Scraping
 *Libraries for scraping websites.*
 
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
@@ -376,6 +377,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
+* [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
@@ -747,6 +749,7 @@ Libraries to help manage database schemas and migrations.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+* [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
