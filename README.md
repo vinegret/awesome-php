@@ -133,6 +133,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 * [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
+* [LaravelS](https://github.com/hhxsv5/laravel-s) - Glue for using Swoole in Laravel or Lumen.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ### Content Management Systems (CMS)
@@ -161,6 +162,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Micro frameworks and routers.*
 
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
+* [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
@@ -320,7 +322,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for continuous integration.*
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
-* [GitlabCi](https://about.gitlab.com/product/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+* [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://jenkins.io/index.html) - A continuous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://github.com/dancryer/phpci) - An open source continuous integration platform for PHP.
@@ -353,7 +355,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Zed](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -536,6 +538,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L6).
@@ -645,6 +648,7 @@ Libraries to help manage database schemas and migrations.
 ### Numbers
 *Libraries for working with numbers.*
 
+* [Brick\Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
@@ -680,7 +684,7 @@ Libraries to help manage database schemas and migrations.
 ### Caching
 *Libraries for caching data.*
 
-* [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
+* [Alternative PHP Cache (APC)](https://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
@@ -813,7 +817,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating a sandboxed development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-* [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
+* [Phansible](https://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
 * [Protobox](https://www.getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
@@ -884,7 +888,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
-* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
+* [The Open Web Application Security Project (OWASP)](https://owasp.org/) - An open software security community.
 
 ### PHP Books
 *Fantastic PHP-related books.*
@@ -964,7 +968,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
-* Collecting Garbage: [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
+* Collecting Garbage: [1](https://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 
 ### PHP Magazines
