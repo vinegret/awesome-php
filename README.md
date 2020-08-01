@@ -249,6 +249,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+* [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
@@ -355,7 +356,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-* [Zed](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
+* [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -422,18 +423,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Debugging and Profiling
-*Libraries and tools for debugging and profiling code.*
+*Libraries and tools for debugging errors and profiling code.*
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+* [PCOV](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+* [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
@@ -780,6 +784,7 @@ Libraries to help manage database schemas and migrations.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
+* [Expose](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
@@ -802,9 +807,7 @@ Libraries to help manage database schemas and migrations.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
-* [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
 # Software
 *Software for creating a development environment.*
@@ -898,6 +901,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Books
 *Fantastic PHP-related books.*
 
+* [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
@@ -910,7 +914,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
-* [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 
 ### Other Books
 *Books related to general computing and web development.*
