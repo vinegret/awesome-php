@@ -82,9 +82,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Websites](#php-websites)
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
-    - [Other Books](#other-books)
     - [PHP Videos](#php-videos)
     - [PHP Podcasts](#php-podcasts)
+    - [PHP Newsletters](#php-newsletters)
+    - [PHP Magazines](#php-magazines)    
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
 
@@ -137,15 +138,19 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Content Management Systems (CMS)
 *Tools for managing digital content.*
+
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concrete5.org/) - A CMS targeting users with a minimum of technical skills.
+* [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
-* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -155,7 +160,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-* [Spatie Open Source](https://spatie.be/open-source/packages) - A collection of open source PHP and Laravel packages.
+* [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
@@ -308,6 +313,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 * [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+* [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
@@ -662,6 +668,7 @@ Libraries to help manage database schemas and migrations.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+* [MathPHP](http://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -743,8 +750,8 @@ Libraries to help manage database schemas and migrations.
 *Libraries and tools to help build serverless web applications.*
 
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
-* [OpenWhisk](http://openwhisk.apache.org/) - An open source serverless cloud platform.
-* [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
+* [OpenWhisk](http://openwhisk.apache.org/) - An open-source serverless cloud platform.
+* [Serverless Framework](https://www.serverless.com/open-source/) - An open-source framework for building serverless applications.
 * [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
@@ -795,7 +802,7 @@ Libraries to help manage database schemas and migrations.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
-* [PHP-ML](https://github.com/php-ai/php-ml) - A library for Machine Learning in PHP.
+* [PHP-ML](https://github.com/jorgecasas/php-ml) - A library for Machine Learning in PHP.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
@@ -915,14 +922,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
-### Other Books
-*Books related to general computing and web development.*
-
-* [Eloquent JavaScript](https://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
-
 ### PHP Videos
 *Fantastic PHP-related videos.*
 
@@ -940,6 +939,16 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+
+### PHP Newsletters
+*PHP-related news directly to your inbox.*
+
+* [PHP Weekly](http://www.phpweekly.com/) - A weekly newsletter about PHP.
+
+### PHP Magazines
+*Fantastic PHP-related magazines.*
+
+* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
 ### PHP Reading
 *PHP-releated reading materials.*
@@ -978,8 +987,3 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](https://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-
-### PHP Magazines
-*Fantastic PHP-related magazines.*
-
-* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
