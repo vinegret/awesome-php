@@ -80,7 +80,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Infrastructure](#infrastructure)
 - [Resources](#resources)
     - [PHP Websites](#php-websites)
-    - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
     - [PHP Podcasts](#php-podcasts)
@@ -881,6 +880,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
@@ -892,16 +892,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
-* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
-
-### Other Websites
-*Useful websites related to web development.*
-
-* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
-* [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
-* [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
-* [The Open Web Application Security Project (OWASP)](https://owasp.org/) - An open software security community.
 
 ### PHP Books
 *Fantastic PHP-related books.*
